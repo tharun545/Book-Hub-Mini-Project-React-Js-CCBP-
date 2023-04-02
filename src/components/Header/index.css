@@ -1,0 +1,36 @@
+.header-main-container {
+  border: 1px solid #e4e7eb;
+  background-color: #ffffff;
+  height: 89px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.nav-card {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  list-style-type: none;
+}
+
+p {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.logout-btn {
+  background-color: #0284c7;
+  width: 73px;
+  height: 32px;
+  color: #ffffff;
+  border: 0;
+  border-radius: 4px;
+  margin-left: 10px;
+  cursor: pointer;
+}

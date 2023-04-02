@@ -1,0 +1,29 @@
+.footer-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.social-icons {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.icons {
+  color: #3d3c3c;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+p {
+  color: #3d3c3c;
+  font-family: 'HK Grotesk';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+}

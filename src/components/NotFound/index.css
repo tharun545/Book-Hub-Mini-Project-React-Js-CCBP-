@@ -1,0 +1,16 @@
+.not-found-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.go-back-home-btn {
+  background-color: #0284c7;
+  width: 164px;
+  height: 48px;
+  border-radius: 12px;
+  border: 0;
+  color: #ffffff;
+}
